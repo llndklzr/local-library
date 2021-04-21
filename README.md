@@ -5,6 +5,7 @@ A project for Thinkful Engineering Flex where I created functions in JavaScript 
 ## tools used:
 
 - JavaScript (especially focused around array methods)
+- GitHub
 - Algorithms
 
 ## prompt:
